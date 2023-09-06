@@ -1,5 +1,5 @@
 ## Hunt1er
-Graduated Mathematical and Technical Softwaredeveloper. Currently AI master student at Universiteit Maastricht (Netherlands) .
+Junior Software Developer (C++) and AI specialist.
 
 
 ### Stats about me
